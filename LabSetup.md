@@ -1,4 +1,4 @@
-# Get Ready for the DevOps and Containers Hands-On
+# Get Ready for the DevOps and Containers Hands-On Exercise
 
 Instructions on how to run the one-click script:
 
