@@ -8,7 +8,7 @@ Instructions (only 3 steps 😉) on how to run the one-click script:
 3)	In the terminal (Azure CLI), type in the following commands:
 
 ``` bash
-	curl -o ~/clouddrive/aks-create.sh https://raw.githubusercontent.com/CharleneMcKeown/DevOps-and-Containers/master/aks-create.sh
+curl -o ~/clouddrive/aks-create.sh https://raw.githubusercontent.com/CharleneMcKeown/DevOps-and-Containers/master/aks-create.sh
 
-    sh ~/clouddrive/aks-create.sh
+sh ~/clouddrive/aks-create.sh
 ```
