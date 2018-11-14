@@ -16,6 +16,6 @@ sh ~/clouddrive/aks-create.sh
 <img src="screenshots\credentials.png" alt="credentials" />
 
 
-    *[Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) (we recommend the binary file) and [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest).
+    *[Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) and [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest).
     *[Visual Studio Code](https://code.visualstudio.com/)
     *[Git](https://git-scm.com/downloads)
