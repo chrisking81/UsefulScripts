@@ -15,7 +15,7 @@ sh ~/clouddrive/aks-create.sh
 4)	Your credentials that you will need tomorrow will be stored at /home/[YOUR_USERNAME]/credentials.txt.
 <img src="screenshots\credentials.png" alt="credentials" />
 
-
-    *[Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) and [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest).
-    *[Visual Studio Code](https://code.visualstudio.com/)
-    *[Git](https://git-scm.com/downloads)
+5)  Install the following tools:
+* [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) (we recommend the binary file) and [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest).
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Git](https://git-scm.com/downloads)
